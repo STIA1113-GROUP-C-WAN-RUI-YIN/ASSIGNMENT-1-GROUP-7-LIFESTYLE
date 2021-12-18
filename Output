@@ -739,7 +739,77 @@ Thanks you very much! See you again ~
 
 
 // YAP JIA JUN 287652
+---------------------------------------------------------------
+MYTHERESA : Online Platform for all luxury items
+---------------------------------------------------------------
+Customer Service Team at +49 89 127695-101 or customercare@mytheresa.com
 
+Welcome to MYTHERESA, online platform for all luxury items! 
+This platform only provide new and genuine luxury item.
+
+1. Please enter your full name: 
+yap
+2. Please enter your gender: 
+male
+Do you have memberhip? Please enter 'yes' or 'no' yes
+Please enter the ID number for the customer with membership and non-membership will need to enter '-' 12345
+Your membership is going to expired. Do you want to add-on? Please enter 'yes' or 'no' yes
+Enter number '1' which is RM 20 for another 1 year membership or enter number '2' which is RM 35 for another 2 years membership or enter number '3' which is RM 50 for another 3 years membership. Which one would you like to prefer?
+2
+Types of clothes:
+   1.  Tee        | RM450
+   2.  Shorts        | RM580
+   3.  Skirt      | RM650
+   4.  Polo_shirt     | RM550
+   5.  Suit_jacket    | RM2000
+   6.  Pants   | RM950
+   7.  Blouse        | RM1450
+   8.  Dress        | RM3500
+   9.  Jacket | RM840
+   10. Hoodie     | RM680
+   11. Coat     | RM3800
+   12. Sweater     | RM1000
+
+Please select the type of the clothes: 
+1 6 7
+===================Size Selection==================
+
+ Extra Large 
+ Large 
+ Medium 
+ Small  
+ Extra Small  
+
+Please select your size for clothes: 
+large
+Please enter your the number of peices of clothes: 
+2
+
+====================Membership=====================
+**10% offer will be given for the first item with membership, 25% offer will be given for the second item with membership and 45% offer will be given for the third item with membership
+**Shipping fee is available for every membership
+
+Do you have a membership? Please enter your member id:
+12345
+
+====================Order Confirmation===================
+
+The type of clothes you choose is: Tee, Pants, Blouse
+The size you choose is: Large
+The quantity you needed is: 2
+----------------------------------------------------
+
+======================Payment========================
+
+The price of the tee =  RM 450.00
+The price of the pants =  RM 950.00
+The price of the blouse =  RM 1450.00
+Please enter the amount paid =  RM 
+3000.00
+Total amount paid =  RM 3000.00
+Change =  RM 1085.00
+
+Thank you very much for using our platform!
 
 
 
