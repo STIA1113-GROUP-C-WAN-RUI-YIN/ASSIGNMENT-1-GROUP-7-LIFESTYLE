@@ -1143,8 +1143,8 @@ public class online_shopping {
 				
 				System.out.println("===Order Confirmation===");
 				System.out.println();
-				System.out.println("The clothes package you choose is: "+ clothes + clothes2);
-				System.out.println("The size you choose is: " + size2);
+				System.out.println("The clothes package you choose is: "+ clothes +" and " + clothes2);
+				System.out.println("The size you choose is: "+ size +" and " + size2);
 				System.out.println("The quantity you needed for each package is: " + "1");
 				System.out.println();
 				
@@ -1190,8 +1190,6 @@ public class online_shopping {
 	}
 
 }
-
-
 
 
 
