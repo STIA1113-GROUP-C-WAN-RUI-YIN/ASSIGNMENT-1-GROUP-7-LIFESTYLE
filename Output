@@ -796,31 +796,70 @@ Welcome to MYTHERESA, online platform for all luxury items!
 This platform only provide new and genuine luxury item.
 
 1. Please enter your full name: 
-yap
+yap jia jun
 2. Please enter your gender: 
 male
-Do you have memberhip? Please enter 'yes' or 'no' yes
-Please enter the ID number for the customer with membership and non-membership will need to enter '-' 12345
-Your membership is going to expired. Do you want to add-on? Please enter 'yes' or 'no' yes
-Enter number '1' which is RM 20 for another 1 year membership or enter number '2' which is RM 35 for another 2 years membership or enter number '3' which is RM 50 for another 3 years membership. Which one would you like to prefer?
-2
-Types of clothes:
-   1.  Tee        | RM450
-   2.  Shorts        | RM580
-   3.  Skirt      | RM650
-   4.  Polo_shirt     | RM550
-   5.  Suit_jacket    | RM2000
-   6.  Pants   | RM950
-   7.  Blouse        | RM1450
-   8.  Dress        | RM3500
-   9.  Jacket | RM840
-   10. Hoodie     | RM680
-   11. Coat     | RM3800
-   12. Sweater     | RM1000
+===Clothes package===
+   1.  Package A   |
+   Consists of: Tee           | RM 450
+                Pants         | RM 950
+                Sweater       | RM 1000
+   Total original price           = RM 2400
+   2.  Package B   |
+   Consists of: Shorts        | RM 580
+                Blouse        | RM 1450
+                Hoodies       | RM 680
+   Total original price           = RM 2710
+   3.  Package C   |
+   Consists of: Skirt         | RM 650
+                Dress         | RM 3500
+                Jacket        | RM 840
+   Total original price           = RM 4990
+   4.  Package D   |
+   Consists of: Polo shirt    | RM 550
+                Suit jacket   | RM 2000
+                Coat          | RM 3800
+   Total original price           = RM 6350
 
-Please select the type of the clothes: 
-1 6 7
-===================Size Selection==================
+Please select the clothes package: 
+package a
+===Size Selection===
+
+ Extra Large 
+ Large 
+ Medium 
+ Small  
+ Extra Small  
+
+Please select your size for clothes: 
+medium
+
+Do you want to add-on any other packages? 
+===Clothes package===
+   1.  Package A   |
+   Consists of: Tee           | RM 450
+                Pants         | RM 950
+                Sweater       | RM 1000
+   Total original price           = RM 2400
+   2.  Package B   |
+   Consists of: Shorts        | RM 580
+                Blouse        | RM 1450
+                Hoodies       | RM 680
+   Total original price           = RM 2710
+   3.  Package C   |
+   Consists of: Skirt         | RM 650
+                Dress         | RM 3500
+                Jacket        | RM 840
+   Total original price           = RM 4990
+   4.  Package D   |
+   Consists of: Polo shirt    | RM 550
+                Suit jacket   | RM 2000
+                Coat          | RM 3800
+   Total original price           = RM 6350
+
+Please select the clothes package: 
+package b
+===Size Selection===
 
  Extra Large 
  Large 
@@ -830,34 +869,46 @@ Please select the type of the clothes:
 
 Please select your size for clothes: 
 large
-Please enter your the number of peices of clothes: 
-2
 
-====================Membership=====================
-**10% offer will be given for the first item with membership, 25% offer will be given for the second item with membership and 45% offer will be given for the third item with membership
-**Shipping fee is available for every membership
+===Membership===
+**10% offer will be given for the first item with membership and 25% discount on the second one.
+**FREE Shipping is available for every membership
 
-Do you have a membership? Please enter your member id:
-12345
+1. Do you have membership? Please enter 'yes' or 'no' yes
+2. Please enter the ID number for the customer with membership and non-membership will need to enter '-' 12345
+3. Your membership is going to expired. Do you want to renew it? Please enter 'yes' or 'no' yes
+4. Enter number '1' which is RM 20 for another 1 year membership. Would you like to renew it?1
 
-====================Order Confirmation===================
+===Order Confirmation===
 
-The type of clothes you choose is: Tee, Pants, Blouse
-The size you choose is: Large
-The quantity you needed is: 2
-----------------------------------------------------
+The clothes package you choose is: package a and package b
+The size you choose is: medium and large
+The quantity you needed for each package is: 1
 
-======================Payment========================
+Please enter the total price for the first clothes package: 
+   1.  Package A                   = RM 2400
+   2.  Package B                   = RM 2710
+   3.  Package C                   = RM 4990
+   4.  Package D                   = RM 6350 
+2400
+Please enter the total price for the second clothes package: 
+   1.  Package A                   = RM 2400
+   2.  Package B                   = RM 2710
+   3.  Package C                   = RM 4990
+   4.  Package D                   = RM 6350 
+2710
+===Payment===
 
-The price of the tee =  RM 450.00
-The price of the pants =  RM 950.00
-The price of the blouse =  RM 1450.00
-Please enter the amount paid =  RM 
-3000.00
-Total amount paid =  RM 3000.00
-Change =  RM 1085.00
+Total price with membership fee    =  RM 5130.00
+Membership discount                =  RM  917.50
+The price with membership discount =  RM 4212.50
+Please enter the amount paid      =  RM 
+4500.00
+Total amount paid  =  RM 4500.00
+Change =  RM 287.50
 
 Thank you very much for using our platform!
+Please come and visit our platform again!
 
 
 
