@@ -259,6 +259,11 @@ Total Price
 
 
 // TAN GUAN XUN 287471
+---------------------------------------------------------------
+ZALORA MALAYSIA: Online Platform for Customize Handbags Service
+---------------------------------------------------------------
+Customer Service Team at 03-92123535 or customer@my.zalora.com
+
 Welcome to ZALORA, online platform for Fashion & Lifestyle! 
 This program provide a customize handbag service.
 
@@ -275,36 +280,50 @@ Please answer the following question accordingly.
   iii.Rectangle Body Type
   iv. Hourglass Body Type
   v.  Apple Body Type
-Inverted Trangle Body Type
+Inverted Triangle Body Type
 
 Handbag size chart by height and weight:
 
-  Height(cm)	  |  Recommend Size of Handbag
-  -------------------------------------------
-  >175 cm	      |  Large or Extra large
-  160 - 175 cm	|  Medium
-  <160 cm     	|  Small  
+Height(cm)   | Recommend Size of Handbag
+-------------------------------------------
+>175 cm      | Large or Extra large
+160 - 175 cm | Medium
+<160 cm      | Small
 
-  Weight(kg)	|  Recommend Size of Handbag
-  -------------------------------------------
-  >75kg	    	|  Large or Extra large
-  60 - 75kg	  |  Medium or Large
-  45 - 60kg	  |  Medium
-  <45kg	  	  |  Small  
+
+Weight(kg)   | Recommend Size of Handbag
+-------------------------------------------
+>75kg	       | Large or Extra large
+60 - 75kg    | Medium or Large
+45 - 60kg    | Medium
+<45kg	       | Small
+
 
 Handbag  suggestion chart by Body Type: 
 
-  Body Type			              |  Suggestion Handbag
-  --------------------------------------------------------------------------------
-  Inverted Triangle Body Type	|  crossbody / hobo / shoulder handbags
-  Triangle Body Type		      |  satchel handbags
-  Rectangle Body Type		      |  satchel / hobo handbags
-  Hourglass Body Type		      |  tote / satchel / hobo / crossbody / shoulder handbags
-  Apple Body Type		          |  tote handbags  
+Body Type                    | Suggestion Handbag
+-----------------------------------------------------------
+Inverted Triangle Body Type  | -crossbody handbags
+                             | -hobo handbags
+                             | -shoulder handbags
+                             | 
+Triangle Body Type           | -satchel handbags
+                             | 
+Rectangle Body Type          | -satchel handbags
+                             | -hobo handbags
+                             | 
+Hourglass Body Type          | -tote handbags
+                             | -satchel handbags
+                             | -hobo handbags
+                             | -crossbody handbags
+                             | -shoulder handbags
+                             | 
+Apple Body Type	             | -tote handbags
+
 
 Your height is 163cm.
 Your weight is 61kg.
-You body type is Inverted Trangle Body Type
+You body type is Inverted Triangle Body Type
 
 Before start personalization feature of the handbags, Please choose the brand and type of the handbag you prefer:
 Brand:
@@ -317,7 +336,7 @@ Brand:
 	g. Fossil
 
 Please select the brand of the handbag: 
-Bonia
+Fossil 
 Types of handbag:
    1.  Clutch        | RM150
    2.  Hobo          | RM210
@@ -331,30 +350,30 @@ Types of handbag:
    10. Sling Bag     | RM128
 
 Please select the type of the handbag: 
-Cross-body
+Travel
 
 ============Personalization Section============
 
-  Material	|  Price(RM)
-  ---------------------------
-  Leather	|  RM90
-  Vegan Leather	|  RM25
-  Cotton Canvas	|  RM55
-  Nylon		|  RM30
-  Cordura	|  RM35
-  Denim		|  RM70  
+Material      | Price(RM)
+-----------------------------
+Leather       | RM90
+Vegan Leather | RM25
+Cotton Canvas | RM55
+Nylon	        | RM30
+Cordura       | RM35
+Denim	        | RM70
 
 Please select the material of the handbags:
 Leather
 
 =====Accessories Add-on(Handbag Compartment)=====
 
-  Items				              |  Price (RM)
-  --------------------------------------------
-  Adding compartment(each)	|  RM15
-  Adding handle			        |  RM7
-  Adding zipper		        	|  RM5
-  Adding inner pocket		    |  RM12  
+Items                     | Price (RM)
+--------------------------------------------
+Adding compartment(each)  | RM15
+Adding handle             | RM7
+Adding zipper             | RM5
+Adding inner pocket       | RM12
 
 Please select your accessories add-on: 
 Inner pocket
@@ -362,18 +381,17 @@ Please enter the quantity:
 3
 
 =================Color Selection==================
-
-  Color			|  Price (RM)
-  --------------------------------------------
-  Black			          |  Free of Charge
-  White			          |  Free of Charge
-  Charcoal	          |  Free of Charge
-  Beige			          |  Free of Charge
-  Red		             	|  Free of Charge
-  Yellow	           	|  Free of Charge
-  Premium Multi-color	|  RM25
-  Premium Pearl color	|  RM14
-  Premium Black Gold	|  RM20  
+Color                | Price (RM)
+-----------------------------------------
+Black                | Free of Charge
+White                | Free of Charge
+Charcoal             | Free of Charge
+Beige                | Free of Charge
+Red                  | Free of Charge
+Yellow	             | Free of Charge
+Premium Multi-color  | RM25
+Premium Pearl color  | RM14
+Premium Black Gold   | RM20
 
 Please select your color: 
 Premium Black Gold
@@ -394,11 +412,11 @@ Medium
 **Zero interest for installment payment
 
 Do you have a membership? Please enter your member id:
-Yes, 45632147
+Yes, 1652458752
 
 ====================Confirm Order===================
 
-The brand and the type of the bag you choose is: BoniaCross-body
+The brand and the type of the bag you choose is: Fossil Travel
 The material you choose is: Leather
 The accessoreis add-on you choose is: Inner pocket
 The color you choose is: Premium Black Gold
@@ -406,7 +424,7 @@ The size of handbag you choose is: Medium
 ----------------------------------------------------
 
 Please enter the price of the handbags you choose: 
-130
+250
 Please enter the price of the material you choose: 
 90
 Please enter the price of the accessories you choose: 
@@ -417,24 +435,24 @@ Please enter the price of the size you choose:
 10
 ======================Payment========================
 
-The price of the handbag      =  RM 130.00
+The price of the handbag      =  RM 250.00
 The price of the material     =  RM 90.00
 The price of the accessories  =  RM 36.00
 The price of the color chosen =  RM 36.00
 The price of the size chosen  =  RM 36.00
 Shipping fees                 =  RM 15.00
-Total price before discount   =  RM 373.00
-Membership Offer              = -RM 35.80
+Total price before discount   =  RM 493.00
+Membership Offer              = -RM 47.80
 Free Shipping                 = -RM 15.00
 ______________________________________________________
-Total price after discount    =  RM 322.20
+Total price after discount    =  RM 430.20
 
-Please enter the amount paid  =  RM 330
-Total amount paid             =  RM 330.00
-Change                        =  RM -7.80
+Please enter the amount paid  =  RM 
+450
+Total amount paid             =  RM 450.00
+Change                        =  RM -19.80
 
 Thank you very much! Please enjoy your day!
-
 
 
 
