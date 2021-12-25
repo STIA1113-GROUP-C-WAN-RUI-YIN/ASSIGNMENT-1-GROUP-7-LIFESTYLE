@@ -381,7 +381,6 @@ public class Shoes {
 // TAN GUAN XUN 287471
 package programmingLifestyle;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Assignment_1 {
@@ -420,49 +419,46 @@ public class Assignment_1 {
 		System.out.println();
 		System.out.println("Handbag size chart by height and weight:");
 		System.out.println();
-		String[][] height = {{"Height(cm)","Recommend Size of Handbag"},
-							{"-------------------------------------------"},
-							{">175 cm","Large or Extra large"},
-							{"160 - 175 cm","Medium"},
-							{"<160 cm","Small"}};
-		System.out.println(Arrays.deepToString(height)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
-		
+		System.out.println("Height(cm)   | "+"Recommend Size of Handbag");
+		System.out.println("-------------------------------------------");
+		System.out.println(">175 cm      | "+"Large or Extra large");
+		System.out.println("160 - 175 cm | "+"Medium");
+		System.out.println("<160 cm      | "+"Small");
+
 		
 		System.out.println();
-		String[][] weight = {{"Weight(kg)","Recommend Size of Handbag"},
-							{"-------------------------------------------"},
-							{">75kg	","Large or Extra large"},
-							{"60 - 75kg","Medium or Large"},
-							{"45 - 60kg","Medium"},
-							{"<45kg	","Small"}};
-		System.out.println(Arrays.deepToString(weight)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
 		System.out.println();
+		System.out.println("Weight(kg)   | "+"Recommend Size of Handbag");
+		System.out.println("-------------------------------------------");
+		System.out.println(">75kg	     | "+"Large or Extra large");
+		System.out.println("60 - 75kg    | "+"Medium or Large");
+		System.out.println("45 - 60kg    | "+"Medium");
+		System.out.println("<45kg	     | "+"Small");
 		
+		System.out.println();
+		System.out.println();
 		
 		System.out.println("Handbag  suggestion chart by Body Type: ");
 		System.out.println();
-		String[][] bodytype ={{"Body Type		","Suggestion Handbag"},
-								{"--------------------------------------------------------------------------------"},
-								{"Inverted Triangle Body Type","crossbody / "
-																+ "hobo / "
-																+ "shoulder handbags"},
-								{"Triangle Body Type	","satchel handbags"},
-								{"Rectangle Body Type	","satchel / "
-														+ "hobo handbags"},
-								{"Hourglass Body Type	","tote / "
-														+ "satchel / "
-														+ "hobo / "
-														+ "crossbody / "
-														+ "shoulder handbags"},
-								{"Apple Body Type	","tote handbags"}};
-		System.out.println(Arrays.deepToString(bodytype)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
-		
+		System.out.println("Body Type                    | "+"Suggestion Handbag");
+		System.out.println("-----------------------------------------------------------");
+		System.out.println("Inverted Triangle Body Type  | "+"-crossbody handbags");
+		System.out.println("                             | "+"-hobo handbags");
+		System.out.println("                             | "+"-shoulder handbags");
+		System.out.println("                             | "+"");
+		System.out.println("Triangle Body Type           | "+"-satchel handbags");
+		System.out.println("                             | "+"");
+		System.out.println("Rectangle Body Type          | "+"-satchel handbags");
+		System.out.println("                             | "+"-hobo handbags");
+		System.out.println("                             | "+"");
+		System.out.println("Hourglass Body Type          | "+"-tote handbags");
+		System.out.println("                             | "+"-satchel handbags");
+		System.out.println("                             | "+"-hobo handbags");
+		System.out.println("                             | "+"-crossbody handbags");
+		System.out.println("                             | "+"-shoulder handbags");
+		System.out.println("                             | "+"");
+		System.out.println("Apple Body Type	             | "+"-tote handbags");
+		System.out.println();
 		
 		System.out.println();
 		System.out.println("Your height is "+b +"cm.");
@@ -502,18 +498,15 @@ public class Assignment_1 {
 		System.out.println();
 		System.out.println("============Personalization Section============");
 		System.out.println();
-		String[][] columnNames = {{"Material","Price(RM)"},
-									{"---------------------------"},
-									{"Leather","RM90"},
-									{"Vegan Leather","RM25"},
-									{"Cotton Canvas","RM55"},
-									{"Nylon	","RM30"},
-									{"Cordura","RM35"},
-									{"Denim	","RM70"}};
-	
-		System.out.println(Arrays.deepToString(columnNames)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
+		System.out.println("Material      | "+"Price(RM)");
+		System.out.println("-----------------------------");
+		System.out.println("Leather       | "+"RM90");
+		System.out.println("Vegan Leather | "+"RM25");
+		System.out.println("Cotton Canvas | "+"RM55");
+		System.out.println("Nylon	      | "+"RM30");
+		System.out.println("Cordura       | "+"RM35");
+		System.out.println("Denim	      | "+"RM70");
+
 		
 		System.out.println();
 		System.out.println("Please select the material of the handbags:");
@@ -522,17 +515,12 @@ public class Assignment_1 {
 		
 		System.out.println("=====Accessories Add-on(Handbag Compartment)=====");
 		System.out.println();
-		String[][] compartment = {{"Items			","Price (RM)"},
-									{"--------------------------------------------"},
-									{"Adding compartment(each)","RM15"},
-									{"Adding handle		","RM7"},
-									{"Adding zipper		","RM5"},
-									{"Adding inner pocket	","RM12"}};
-		
-		System.out.println(Arrays.deepToString(compartment)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
-		
+		System.out.println("Items                     | "+"Price (RM)");
+		System.out.println("--------------------------------------------");
+		System.out.println("Adding compartment(each)  | "+"RM15");
+		System.out.println("Adding handle             | "+"RM7");
+		System.out.println("Adding zipper             | "+"RM5");
+		System.out.println("Adding inner pocket       | "+"RM12");
 		
 		System.out.println();
 		System.out.println("Please select your accessories add-on: ");
@@ -542,22 +530,18 @@ public class Assignment_1 {
 		System.out.println();
 		
 		System.out.println("=================Color Selection==================");
-		System.out.println();
-		String[][] color = {{"Color		","Price (RM)"},
-							{"--------------------------------------------"},
-							{"Black		","Free of Charge"},
-							{"White		","Free of Charge"},
-							{"Charcoal	","Free of Charge"},
-							{"Beige		","Free of Charge"},
-							{"Red		","Free of Charge"},
-							{"Yellow	","Free of Charge"},
-							{"Premium Multi-color","RM25"},
-							{"Premium Pearl color","RM14"},
-							{"Premium Black Gold","RM20"}};
+		System.out.println("Color                | "+"Price (RM)");
+		System.out.println("-----------------------------------------");
+		System.out.println("Black                | "+"Free of Charge");
+		System.out.println("White                | "+"Free of Charge");
+		System.out.println("Charcoal             | "+"Free of Charge");
+		System.out.println("Beige                | "+"Free of Charge");
+		System.out.println("Red                  | "+"Free of Charge");
+		System.out.println("Yellow	             | "+"Free of Charge");
+		System.out.println("Premium Multi-color  | "+"RM25");
+		System.out.println("Premium Pearl color  | "+"RM14");
+		System.out.println("Premium Black Gold   | "+"RM20");
 		
-		System.out.println(Arrays.deepToString(color)
-				.replace("],","\n").replace(",","\t| ")
-                .replaceAll("[\\[\\]]", " "));
 		
 		System.out.println();
 		System.out.println("Please select your color: ");
@@ -654,6 +638,7 @@ public class Assignment_1 {
 	}
 
 }
+
 
 
 
